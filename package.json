@@ -1,0 +1,29 @@
+{
+  "name": "grunt-amp-inline-css",
+  "version": "0.0.0",
+  "description": "write inline css for AMP",
+  "main": "tasks/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mijabi/grunt-amp-inline-css.git"
+  },
+  "keywords": [
+    "gruntplugin",
+    "amp",
+    "grunt"
+  ],
+  "author": "mijabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mijabi/grunt-amp-inline-css/issues"
+  },
+  "homepage": "https://github.com/mijabi/grunt-amp-inline-css",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "install": "^0.5.2",
+    "npm": "^3.7.5"
+  }
+}
